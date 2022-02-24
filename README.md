@@ -1,8 +1,8 @@
-# Pewlett-Hackard-Analysis
+# Employee-Eligibility-Analysis
 
 ## Overview
 
-We will provide analysis to help future-proof Pewlett Hackard for the “Silver Tsunami”.
+We will provide analysis to help future-proof Pewlett Hackard Company for the “Silver Tsunami”.
 
 ### Purpose
 
