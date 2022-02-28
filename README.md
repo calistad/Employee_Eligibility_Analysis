@@ -22,7 +22,7 @@ We will provide analysis to help future-proof Pewlett Hackard Company for the �
 
   ![截屏2021-10-01 下午3 39 54](https://user-images.githubusercontent.com/88747464/135682449-50779d8a-5e88-4fbc-ab11-40ab53d52e37.png)
 
-  - Thus it’s useful to use the ‘distinct on’ method to remove these duplicates and keep only the most recent title of each employee.
+  - Thus it’s helpful to use the ‘distinct on’ method to remove these duplicates and keep only the most recent title of each employee.
 
 - retiring_titles.csv
 
@@ -44,12 +44,12 @@ There are more employees needed for mentorship, we can retrieve employees that w
 
 ![截屏2021-10-01 下午4 29 38](https://user-images.githubusercontent.com/88747464/135682632-d32b3bef-0f39-4337-b8df-6c65ee91293d.png)
 
-- born in 1956, since the oldest to retire were born in 1955;
+- born in 1956, since the oldest to retire was born in 1955;
 - Started to work in the company between 1980 to 2000, which should have enough experience for mentoring;
 - Still work in the company.
 
 ![截屏2021-10-01 下午3 55 24](https://user-images.githubusercontent.com/88747464/135682647-9979938c-641a-4492-a5bc-7e028cddf454.png)
 
-Upon these requirements, There are 161,050 eligibled employees. 
+Upon these requirements, There are 161,050 eligible employees. 
 
 There are completely enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
